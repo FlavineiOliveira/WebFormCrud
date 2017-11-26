@@ -1,4 +1,6 @@
-﻿Instruções para teste
+Instruções para teste
+
+O sistema encontra-se online, para realizar os testes siga as instruções abaixo:
 
 1. Acesse o sistema no link abaixo.
 	http://webcrudflavinei.gearhostpreview.com/
@@ -15,3 +17,6 @@
 6. Para editar alguma tarefa clique na indicação do Lápis e Cardeno na linha corresponde a informação a ser atualizada. Altere a informação atual pela nova e clique em "Salvar".
 
 7. Para excluir clique no símbolo Vermelho na coluna "Excluir" na linha corresponde a informação a ser excluída.
+
+OBS.: O fonte do Visual Studio e demais arquivos estão disponiveis no repositório GIThub abaixo:
+	https://github.com/FlavineiOliveira/WebFormCrud.git
