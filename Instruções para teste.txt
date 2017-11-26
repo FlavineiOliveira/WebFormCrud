@@ -1,0 +1,17 @@
+﻿Instruções para teste
+
+1. Acesse o sistema no link abaixo.
+	http://webcrudflavinei.gearhostpreview.com/
+
+2. Clique em "Inserir nova tarefa".
+	Obs.: Automaticamente a lista de tarefas é atualizada ao acessar a página.
+	
+3. Informe o nome da tarefa e uma descrição.
+
+4. Clique em "Salvar".
+
+5. Após exibir a mensagem de confirmação de inclusão da tarefa, clique em "Voltar".
+
+6. Para editar alguma tarefa clique na indicação do Lápis e Cardeno na linha corresponde a informação a ser atualizada. Altere a informação atual pela nova e clique em "Salvar".
+
+7. Para excluir clique no símbolo Vermelho na coluna "Excluir" na linha corresponde a informação a ser excluída.

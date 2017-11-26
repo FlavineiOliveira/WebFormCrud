@@ -1,0 +1,35 @@
+Histórico de desenvolvimento
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Parte 1:
+	Tempo total de desenvolvimento, pesquisas e testes: 18:20 hs.
+	Suposição da tarefa: Criar uma aplicação Web CRUD. Não é necessário possuir uma interface sofisticado.
+	O que foi realizado: Construído uma aplicação Web Form permitindo a leitura, criação, edição e deleção de dados.
+	
+	As principais dificuldades: Trabalhar a integração com o banco de dados e capturar informações do GridView para manipular.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Parte 2:
+	Tempo total de desenvolvimento, pesquisas e testes: 05:00 hs.
+	Suposição da tarefa: Exigir uma conta google para o usuário acessar a aplicação Web CRUD.
+	O que foi realizado: Realizei pesquisas para implementar a autenticação da google account, porém sem sucesso (Web Form LoginGoogle.aspx).
+
+	As principais dificuldades: Não consegui entender de forma clara o processo para realizar integração da GoogleAPI com o Web Form para autenticar o usuário.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Parte 3:
+	Suposição da tarefa: Implementar mais funcionalidades para o sistema. Oferencendo suporte de Nome da tarefa, descrição da tarefa, permitir a inclusão de anexos, prioridade da terefa e armazenar o usuário que registrou a tarefa.
+	O que foi realizado: Apenas inclui o campo "Descrição" para poder realizar os testes, não consegui concluir a etapa anterior para depois finalizar esta parte.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Parte 4:
+	Suposição da tarefa: Implementar o suporte de finalizar a tarefa armazenando o usuário que registrou como finalizado.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Parte 5:
+	Suposição da tarefa: Implementar fila para tarefas. Tarefa criada vai para a fila de "F". A partir da fila "F" é possível fazer o upload de anexos, após anexar, cai na fila de "Processada", quando desejado o usuário informa como "done" e possibilita a consulta.
+
+
+
+Observação: Desenvolvimento realizado no Visual Studio 2013, utilizando Web Form (Asp.Net, C#, html) e utilizado o banco de dados MySQL.
+
