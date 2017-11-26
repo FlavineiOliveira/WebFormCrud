@@ -8,7 +8,7 @@ O sistema encontra-se online, para realizar os testes siga as instruções abaix
 2. Clique em "Inserir nova tarefa".
 	Obs.: Automaticamente a lista de tarefas é atualizada ao acessar a página.
 	
-3. Informe o nome da tarefa e uma descrição.
+3. Informe o nome da tarefa e descrição.
 
 4. Clique em "Salvar".
 
