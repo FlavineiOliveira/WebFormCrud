@@ -18,5 +18,5 @@ O sistema encontra-se online, para realizar os testes siga as instruções abaix
 
 7. Para excluir clique no símbolo Vermelho na coluna "Excluir" na linha corresponde a informação a ser excluída.
 
-OBS.: O fonte do Visual Studio e demais arquivos estão disponiveis no repositório GIThub abaixo:
+OBS.: O fonte do Visual Studio e demais arquivos estão disponiveis no repositório GitHub abaixo:
 	https://github.com/FlavineiOliveira/WebFormCrud.git
