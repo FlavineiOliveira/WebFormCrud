@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\FLAVINEI\Documents\site_Flavinei\build</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Google.Apis.Core.dll">
+      <publishTime>11/25/2017 22:34:39</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.dll">
+      <publishTime>11/25/2017 22:34:39</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.PlatformServices.dll">
+      <publishTime>11/25/2017 22:34:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>11/25/2017 19:18:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>11/25/2017 19:18:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>11/25/2017 19:18:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>11/25/2017 22:43:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/25/2017 22:34:39</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/25/2017 19:18:56</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>11/25/2017 22:43:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>11/25/2017 22:43:23</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>11/25/2017 22:43:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>11/25/2017 22:43:38</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>11/25/2017 22:43:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>11/25/2017 22:43:23</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>11/25/2017 22:43:23</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>11/25/2017 22:43:23</publishTime>
+    </File>
+    <File Include="bin/WebApplicationCrud.dll">
+      <publishTime>11/26/2017 15:58:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Imagens/Editar.jpg">
+      <publishTime>11/23/2017 16:15:56</publishTime>
+    </File>
+    <File Include="Imagens/Excluir.png">
+      <publishTime>11/23/2017 16:36:09</publishTime>
+    </File>
+    <File Include="Imagens/Google.png">
+      <publishTime>11/25/2017 18:37:15</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/25/2017 22:43:40</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/23/2017 13:56:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>11/23/2017 13:56:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>11/23/2017 13:56:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>11/23/2017 13:56:31</publishTime>
+    </File>
+    <File Include="Scripts/LoginGoogle.aspx">
+      <publishTime>11/25/2017 21:59:56</publishTime>
+    </File>
+    <File Include="Scripts/WebFormAtualizarTarefa.aspx">
+      <publishTime>11/25/2017 10:37:13</publishTime>
+    </File>
+    <File Include="Scripts/WebFormCrud.aspx">
+      <publishTime>11/25/2017 10:21:30</publishTime>
+    </File>
+    <File Include="Scripts/WebFormInserirTarefa.aspx">
+      <publishTime>11/25/2017 10:37:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/26/2017 15:33:32</publishTime>
+    </File>
+    <File Include="WebFormCrud.aspx">
+      <publishTime>11/26/2017 12:52:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
